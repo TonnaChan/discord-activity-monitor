@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "dbConnectionString": "nedb://nedb-data",
+    "token": "OTE4Mzk1Mzc3MzQwODA1MTYw.YbGoWA.6iHiZnjMJZN191chP72cukiU1Gs",
+    "dbConnectionString": "mongodb+srv://tonna:17M@y2017@cluster0.t8lmk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "serviceName": "Activity Monitor",
     "requiredPermissions": 268454912,
     "askTimeoutMs": 30000,
